@@ -1,3 +1,7 @@
+## INSTALL GIT
+
+https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+
 ## IF YOU WERE NOT INVITED TO THIS PROJECT LEAVE US ALONE
 
 ## NOTICE
